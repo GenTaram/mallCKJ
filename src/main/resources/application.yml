@@ -19,12 +19,12 @@ spring:
         format_sql: true
     show-sql: true
 server:
-  port: 7070
+  port: 8080
   servlet:
     session:
       timeout: 600
 db:
-  url: jdbc:mysql://localhost:3306/db_b200412345
-  username: b200412345
+  url: jdbc:mysql://localhost:3306/db_b202012055
+  username: b2020120551
   password: cometrue
   driver-class-name: com.mysql.cj.jdbc.Driver
